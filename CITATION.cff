@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Supplemental Mathematica Notebooks to: Novel Universality
+  Classes in Polar Active Fluids using Nonperturbative
+  Renormalization Group Methods
+message: >-
+  If you use these notebooks, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patrick
+    family-names: Jentsch
+    affiliation: Imperial College London
+    orcid: 'https://orcid.org/0000-0002-1532-4812'
+repository-code: >-
+  https://github.com/dingpadde/supplemental-novel-UCs-compressible-PAFs
+abstract: >-
+  This repository contains two Mathematica Notebooks as
+  supplemental material to Patrick Jentsch's PhD thesis
+  "Novel Universality Classes in Polar Active Fluids using
+  Nonperturbative Renormalization Group Methods", giving
+  analytical expressions for graphical corrections.
+license: CC-BY-NC-SA-4.0
